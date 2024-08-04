@@ -1,0 +1,13 @@
+PREREQUISITES: Make sure that your mysql database is already established
+
+Ex: 
+
+Database name: csharp_api_db
+                        Table Name: Clients
+
+=======================================
+
+1. Type this in the terminal: 
+                                dotnet add package MySql.Data
+
+2. Setup your connecton in your Controller (Example already in the ClientApiController.cs)

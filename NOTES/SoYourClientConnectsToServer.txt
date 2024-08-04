@@ -1,0 +1,17 @@
+Add these codes to your Program.cs:
+
+// add Cors
+builder.Services.AddCors(option => {
+    option.AddDefaultPolicy(builder => {
+        builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
+});
+
+
+//
+//
+//
+//
+
+// use service
+app.UseCors();
