@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pengwin-learning-dapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e11baa0fe4466e7960d216df4bce7de4cbe455")]
 [assembly: System.Reflection.AssemblyProductAttribute("pengwin-learning-dapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pengwin-learning-dapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64MTopf7abQ=",
+  "dgSpecHash": "B4MjsrWDxBs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SECCA\\Documents\\C# API\\csharp-api-mysql\\pengwin-learning-dapper.csproj",
+  "projectFilePath": "C:\\Users\\SECCA\\Documents\\2024 Systems\\C# 2024\\csharp-api-mysql\\pengwin-learning-dapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SECCA\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\SECCA\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
